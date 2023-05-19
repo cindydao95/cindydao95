@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - Build Recommendation System for Shopping Grocery Store
 
-- Immigrant PERM Processing Analytics
+-  Exploration Data Analytics (EDA) for US Immigrants PERM Application on Quarter 4, 2022
 
 ### **Past Project examples**:
 
