@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 -  Exploration Data Analytics (EDA) for US Immigrants PERM Application on Quarter 4, 2022
 
-### **Past Project examples**:
+### **✨ Past Project examples**:
 
 - [Deployed Machine Leaning to Detect Financial Fruad Transaction (*JPMorgan Chase data*)](https://github.com/cindydao95/Applied-MachineLearning-to-FinancialFraudTransaction-Detection)
 
